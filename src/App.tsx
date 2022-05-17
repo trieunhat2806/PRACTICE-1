@@ -22,7 +22,13 @@ function App() {
                 <button>LOGIN</button>
               </div>    
             </form>
-          </nav>                  
+          </nav>
+        <ul>
+                <li><a href="default.asp">Kiwi</a></li>
+                <li><a href="news.asp">Cherry</a></li>
+                <li><a href="contact.asp">Pineaple</a></li>
+                <li><a href="about.asp">Watermelon</a></li>
+</ul> 
     </div>
   );
 }
